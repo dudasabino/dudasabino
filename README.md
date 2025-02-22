@@ -4,4 +4,4 @@ Atualmente, sou estudante de Economia na Universidade de São Paulo e procuro ap
 Além de universitária, sou uma jovem apaixonada por leitura. Meus hobbies incluem ler, assistir séries e escutar músicas. 
 
 # Linguagens que já utilizei
-[![My Skills](https://skillicons.dev/icons?i=python,r,rstudio,git,github,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,git,github,jupyter)](https://skillicons.dev)
