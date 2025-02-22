@@ -7,4 +7,4 @@ Além de universitária, sou uma jovem apaixonada por leitura. Meus hobbies incl
 [![My Skills](https://skillicons.dev/icons?i=python,r,git,github,jupyter)](https://skillicons.dev)
 
 ## Formas de Contato
-[![My Skills](https://skillicons.dev/icons?i=gmail)] "eduarda.sabinom@icloud.com"
+![My Skills](https://skillicons.dev/icons?i=gmail) eduarda.sabinom@icloud.com
